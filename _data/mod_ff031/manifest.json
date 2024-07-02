@@ -23,6 +23,24 @@
         "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3490,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/annotations/mod_ff031-canvas-1-transcription.json",
+            "label": {
+              "none": ["Transcription"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/annotations/mod_ff031-canvas-1-speaker.json",
+            "label": {
+              "none": ["Speaker"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/paintings",
