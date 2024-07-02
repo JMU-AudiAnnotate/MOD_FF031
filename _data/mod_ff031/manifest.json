@@ -3,36 +3,277 @@
     "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "MOD_FF031" ] },
-    "homepage": [
-      {
+    "homepage":  [
+    	{
         "id": "https://commons.lib.jmu.edu/ffpc-1994/4/",
         "type": "Text",
-        "label": { "en": [ "MOD_FF031" ] },
+        "label": { "en": [ "FF031_African American Poetry and the Vernacular Matrix Part 3, 9/29/1994" ] },
         "format": "text/html"
       }
     ],
     "provider": [
       {
-        "id": "https://commons.lib.jmu.edu/",
+        "id": "https://commons.lib.jmu.edu",
         "type": "Agent",
-        "label": { "en": [ "JMU Scholarly Commons" ] }
+        "label": { "en": [ "JMU Libraries" ] }
       }
     ],
+    "metadata": [
+	{
+		"label": {
+			"en": [
+				"Creator"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Sherley Anne Williams (panelist)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Elizabeth Alexander (panelist)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Eleanor W. Traylor (panelist)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Darrell Stover (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Shahara Brookins Drew (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Adam David Miller (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Monifa A. Love (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Mylea Thompson (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Alvin Aubert (moderator)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Joanne V. Gabbin (facilitator)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Description"
+			]
+		},
+		"value": {
+			"en": [
+				"00:00 Sherley Anne Williams speaks; 18:20 Alvin Aubert speaks; 19:45 Joanne V. Gabbin instructs participants; 19:52 Darrell Stover addresses the panel; 21:13 Elizabeth Alexander responds to Stover; 21:57 Eleanor W. Traylor responds to Stover; 24:21 Aubert responds to unidentified audience member; 27:36 Shahara Brookins Drew addresses panel; 28:30 Williams responds to Drew; 29:40 Aubert briefly responds; 30:00 Adam David Miller addresses panel on the influence of the Gospel/Spirituals; 30:48 Williams responds to Miller; 33:28 Alexander responds to Williams; 35:10 Williams responds to Alexander; 36:32 Aubert responds to Williams; 38:00 Williams responds; 38:30 Traylor interjects; 42:15 unidentified audience member asks that the panel discusses the future of African American poetry; 50:47 Monifa A. Love addresses panel; 53:40 Mylea Thompson addresses panel"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Title"
+			]
+		},
+		"value": {
+			"en": [
+				"African American Poetry and the Vernacular Matrix Part 3, 9/29/1994"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Date"
+			]
+		},
+		"value": {
+			"en": [
+				"9-29-1994"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Digital Origin"
+			]
+		},
+		"value": {
+			"en": [
+				"reformatted digital"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Format"
+			]
+		},
+		"value": {
+			"en": [
+				"video/mp4"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Running Time"
+			]
+		},
+		"value": {
+			"en": [
+				"00:58:10"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Rights"
+			]
+		},
+		"value": {
+			"en": [
+				"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Identifier"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center Collection no. FF031"
+			]
+		}
+	}
+],
+"requiredStatement": {
+	"label": {
+		"en": [
+			"Copyright Statement"
+		]
+	},
+	"value": {
+		"en": [
+			"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+		]
+	}
+},
     "items": [
       {
         "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 3490,
+        "duration": 3490.0,
         "annotations": [
           
           {
             "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/annotations/mod_ff031-canvas-1-transcription.json",
             "label": {
-              "none": ["Transcription"]
+              "none": ["transcription"]
             }
-          }
-          ,
+          },
           {
             "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/annotations/mod_ff031-canvas-1-speaker.json",
@@ -43,18 +284,18 @@
         ],
         "items": [
           {
-            "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/paintings",
+            "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/annotations/mod_ff031-canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/painting",
+                "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
                   "id": "https://apps.lib.jmu.edu/audiannotate/FF031.mp4",
                     "type": "Video",
                     "format": "video/mp4",
-                    "duration": 3490
+                    "duration": 3490.0
                 },
                 "target": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas"
               }
@@ -62,5 +303,115 @@
           }
         ]
       }
-    ]
-} 
+    ],
+    "structures": [
+    {
+      "type": "Range",
+      "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/range/1",
+      "label": {
+        "en": [
+          "Furious Flower Poetry Center: African American Poetry and the Vernacular Matrix Part 3, 9/29/1994"
+        ]
+      },
+      "items": [
+        {
+          "type": "Range",
+          "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/range/2",
+          "label": {
+            "en": [
+              "Part 3"
+            ]
+          },
+          "items": [
+            {
+              "type": "Range",
+              "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/range/3",
+              "label": {
+                "en": [
+                  "Sherley Anne Williams speaks"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas/1#t=0.0,1100.0"
+                }
+              ]
+            },
+            {
+              "type": "Range",
+              "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/range/4",
+              "label": {
+                "en": [
+                  "Alvin Aubert speaks"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas/1#t=1100.0,1185.0"
+                		}
+              		]
+            		},
+            		{
+            			"type": "Range",
+            			"id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/range/5",
+             			"label": {
+                		"en": [
+                  		"Gabbin instructs panelists"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas/1#t=1185.0,1273.0"
+                		}
+              		]
+            		},
+            		{
+            			"type": "Range",
+            			"id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/range/6",
+             			"label": {
+                		"en": [
+                  		"Stover speaks to panelists"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas/1#t=1273.0,1317.0"
+                		}
+              		]
+            		},
+            		{
+            			"type": "Range",
+            			"id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/range/7",
+             			"label": {
+                		"en": [
+                  		"Alexander replies to Stover"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas/1#t=1317.0,1461.0"
+                		}
+              		]
+            		},
+            		{
+            			"type": "Range",
+            			"id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/range/8",
+             			"label": {
+                		"en": [
+                  		"Traylor speaks"
+                ]
+              },
+            "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/MOD_FF031/mod_ff031/canvas-1/canvas/1#t=1461.0,3490.0"
+                }
+              ]
+            }
+          ]
+        }
